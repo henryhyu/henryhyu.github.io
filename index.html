@@ -1,127 +1,318 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>henriyouu</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <link rel="stylesheet" media="screen" href="css/style.css">
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Henry's Personal Website"/>
+    <meta name="author" content="Henry Yu"/>
+
+    <title>Henry Yu</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/css.css" media="Screen"/>
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="shortcut icon" href="img/rain.png"/>
 </head>
-<body>
 
-<section class="hero overlay" data-stellar-background-ratio="0.3">
-  <div class="content">
-    <h1 >Henry Yu</h1>
-    <h3>Welcome To My Life: A Work In Progress</h3>
-    <a class="btn" href="https://www.linkedin.com/in/henryhyu">My LinkedIn</a>
-    <a class="btn" href="https://ataintedcanvas.wordpress.com">My Blog</a>
-    <a class="btn" href="https://soundcloud.com/henriyouu">My SoundCloud</a>
-  </div>
-</section>
+<body data-spy="scroll" data-target=".navbar">
+    <!-- Intro -->
 
-<section class="wrapper">
-  <div class="content">
-    <h2>About Me:</h2>
-    <p align="justify">  Hey. Before you continue to read about what I have to share, I would just like to thank you for dropping by my page.
-      It means a lot to me. Really really. Without further ado, here is a little about myself. My name is Henry Yu. I was born in Tucson, Arizona to an engineer and an accountant.
-      I grew up in the sheltered arms of Silicon Valley (Cupertino to be exact) in a strict asian household.
-      I am currently a student at the University of California, Santa Barbara pursuing a degree in Computer Science.
-      I also have a deep passion for statistical science, machine learning, and chaos theory.
-      I like to read a lot of novels, news articles, and blogs.
-      In simpler words, I like hearing about other people’s stories, whatever or whoever they may be.
-      My hobbies other than sitting at my computer all day include competitive (and casual) swimming, running, and long walks.
-      Growing up, I definitely feel like I've seen and been through a lot. I think my story is special, just as special as anyone else’s.
-      I would love to hear your story and have the privilege of you hearing mine. </p>
-  <div>
-</section>
+    <div id="particles"></div>
+    <section id="hello" class="fullPage">
+        <div id="intro">
+            <h2>Henry Yu</h2>
+            <h3>Blogger, Thinker, Developer</h3><br>
+            <a href="#about">About</a><br>
+            <a href="#experience">Experience</a><br>
+            <a href="#projects">Projects</a><br>
+            <a href="#contact">Contact</a><br>
+            <a href="http://tinyurl.com/ze6fd7c" target="_blank">Life</a>
+        </div>
+    </section>
 
-<section class="middle overlay" data-stellar-background-ratio="0.3">
-  <div class="content">
-    <h2>There is no place and no moment in history where I could stand and say 'Arithmetic begins here, now.'</h2>
-    <a class="btn" href="https://soundcloud.com/monstercat/nanobii-rainbow-road">Rainbow Road</a>
-  <div>
-</section>
+    <!-- Navigation -->
+    <nav class="navbar navbar-default" id="sticker">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#hello">Hello</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#experience">Experience</a></li>
+                        <li><a href="#projects">Projects</a></li>
+                        <li><a href="#contact">Contact</a></li>
+                        <li><a href="http://tinyurl.com/ze6fd7c" target="_blank">Life</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
 
-<section class="wrapper">
-  <div class="content">
-    <h2>Some Pictures Of Me</h2>
-    <img src="https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xat1/t31.0-8/10269137_10202849339927111_8017005867114760843_o.jpg" alt="">
-    <img src="https://scontent-sjc2-1.xx.fbcdn.net/hphotos-prn2/t31.0-8/1397944_10201513535292830_579572139_o.jpg" alt="">
-    <img src="https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xaf1/t31.0-8/10256626_10204245744247476_5785669520365958004_o.jpg" alt="">
-    <img src="https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/10432109_10203125696374531_130344071599755090_n.jpg?oh=6a8c23d0e6523d52d6b353db0f5b1ab2&oe=56FB8D47" alt="">
-  <div>
-</section>
 
-<section class="lower overlay" data-stellar-background-ratio="0.3">
-  <div class="content">
-    <h2>Experience</h2>
-    <a class="btn" href="https://github.com/henryhyu">My Github</a>
-  </div>
-</section>
+    <!-- About -->
+    <section id="about" class="fullPage">
+        <h1>A Little Introduction</h1>
+        <div class="row" id="hi-im-sol">
+            <div class="col-sm-4">
+                <h4>
+                    Hello there, I'm Henry:<br>
+                    college student & avid kingdom hearts fan residing in Santa Barbara, California
+                </h4>
+                <img src="img/profpic.png">
+            </div>
+            <div class="col-sm-4">
+                <p> Before you continue to read about what I have to share, I would just like to thank you for dropping by my page.
+                  It means a lot to me. Really really. Without further ado, here is a little about myself.
+                  <br><br>
+                  I was born in Tucson, Arizona to an engineer and an accountant.
+                  I grew up in the sheltered arms of Silicon Valley (Cupertino to be exact) in a strict asian household.
+                  I am majoring in computer science & minoring in statistical science at the University of California, Santa Barbara.
+                  <br><br>
+                  I like to read a lot of novels, news articles, and blogs.
+                  In simpler words, I like hearing about other people’s stories, whatever or whoever they may be.
+                  My hobbies other than sitting at my computer all day include competitive (and casual) swimming, running, lifting, and long walks.
+                  Growing up, I definitely felt like I've seen and been through a lot. I think my story is special, just as special as anyone else’s.
+                  I would love to hear your story and have the privilege of you hearing mine.
+                </p>
+            </div>
+            <div class="col-sm-4">
+              <p> Recently, I decided to acquaint myself more with the field of computer science. I have had some exposure with computer networking, machine learning and web development.
+              I've since interned for <a href="#experience">a few companies & organizations</a> as well as making a few <a href="#projects">projects for fun</a>.
+              <br><br>
+              When I'm not doing anything quote on quote productive, I like to write. Find me on <a href="https://ataintedcanvas.wordpress.com/" target="_blank">WordPress</a>.
+              <br><br>
+              I also love watching and analyzing movies (<a href="http://www.imdb.com/title/tt0485947/" target="_blank">Mr. Nobody</a>), watching competitive eating videos (<a href="https://www.youtube.com/user/MegatoadStonie" target="_blank">Matt Stonie</a>),
+              drinking milk tea, & volunteering, especially with children. As cliche as it might sound, one thing that I always tell myself is that life is an experience.
+              To meet as many people as I can, to go as many places as I can, and to just see the world. <br><br> </p>
+            </div>
+        </div>
+        <br>
+        <p style="text-align:center">If you want to know more about me, feel free to <a href="#experience">scroll down</a> or <a href="#contact">contact me</a>!</p>
 
-<section class="wrapper">
-  <div class="content">
-    <h2>Education</h2>
-    <p align="justify"> University of California, Santa Barbara </p>
-    
-    <p align="justify"> Monta Vista High School </p>
-  <div>
-</section>
+        <div id="fun-facts">
+            <h3>Fun Facts</h3>
+            <div class="row" id="funfacts">
+                <div class="col-sm-3">
+                    <div id="counter"><span class="count">19</span><p>years</p></div>
+                </div>
+                <div class="col-sm-3">
+                    <div id="counter"><span class="count">1000</span><p>acai bowls</p></div>
+                </div>
+                <div class="col-sm-3">
+                    <div id="counter"><span class="count">355</span><p>seconds</p></div>
+                </div>
+                <div class="col-sm-3">
+                    <div id="counter"><span class="count">915</span><p>pounds</p></div>
+                </div>
+            </div>
+        </div>
 
-<section class="lowerlower overlay" data-stellar-background-ratio="0.3">
-  <div class="content">
-    <h2>Industry</h2>
-    <p>Software Development Intern - ONTRAPORT</p>
-    <a class="btn" href="https://ontraport.com">ONTRAPORT</a>
-    <p>Quality Assurance Test Automation Intern - Fortinet</p>
-    <a class="btn" href="http://www.fortinet.com">Fortinet</a>
-  </div>
-</section>
+        <div id="education">
+            <h3>Education</h3>
+            <h6>University of California, Santa Barbara</h6>
+            <p>Computer Science, Statistical Science<br>2014-2018</p>
+            <h6>Monta Vista High School</h6>
+            <p>2010-2014</p>
+        </div>
 
-<section class="bottom">
-  <div class="content">
-    <p>Copyright <a href="">Henry Yu</a> 2016</p>
-  </div>
-</section>
+        <!--
+        <div id="skills">
+            <h3>Skills</h3>
+            <p>Web Development: </p><div id="progress1" class="progress-bar"><div></div></div><br>
+            <p>Web Development: </p><div id="progress1" class="progress-bar"><div></div></div><br>
+            <p>Web Development: </p><div id="progress1" class="progress-bar"><div></div></div><br>
+            <p>Eating: </p><div id="progress-eating" class="progress-bar"><div></div></div><br>
+        </div>-->
 
-<script src="js/jquery-2.0.2.js"></script>
-<script src="js/jquery.stellar.min.js"></script>
-<script>
-  $.stellar();
-</script>
+        <a href=#experience><i class="fa fa-angle-down fa-5x down-arrow"></i></a>
+    </section>
 
-<!-- count particles -->
-<div class="count-particles">
-  <span class="js-count-particles">--</span> particles
-</div>
+    <div class="parallax-window" data-parallax="scroll" data-image-src="img/ocean.png"></div>
 
-<!-- particles.js container -->
-<div id="particles-js"></div>
 
-<!-- scripts -->
-<script src="js/particles.js"></script>
-<script src="js/app.js"></script>
+    <!-- Experience -->
+    <section id="experience" class="fullPage">
+        <h1>Experience</h1>
 
-<!-- stats.js -->
-<script src="js/lib/stats.js"></script>
-<script>
-  var count_particles, stats, update;
-  stats = new Stats;
-  stats.setMode(0);
-  stats.domElement.style.position = 'absolute';
-  stats.domElement.style.left = '0px';
-  stats.domElement.style.top = '0px';
-  document.body.appendChild(stats.domElement);
-  count_particles = document.querySelector('.js-count-particles');
-  update = function() {
-    stats.begin();
-    stats.end();
-    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
-      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
-    }
-    requestAnimationFrame(update);
-  };
-  requestAnimationFrame(update);
-</script>
+        <div class="row">
+            <div class="col-sm-6">
+                <p>
+                <a href="https://ontraport.com/" target="_blank"><span>ONTRAPORT</span></a><br>Software Development and Quality Assurance Intern<br>January 2016 - Present<br><br>
+                <a href="http://www.akpsiucsb.com/" target="_blank"><span>Alpha Kappa Psi</span></a><br>Active Brother - Technology Committee<br>May 2015 - Present<br><br>
+                <a href="http://www.fortinet.com/" target="_blank"><span>Fortinet</span></a><br>Quality Assurance Test Automation Intern<br>June 2015 - September 2015<br><br>
+                </p>
+            </div>
+            <div class="col-sm-6">
+                <p>
+                    <a href="http://www.ucsbhacks.com/" target="_blank"><span>SB Hacks</span></a><br>Development Team<br>Present <br><br>
+                    <a href="http://ssta-swim.com/index.php" target="_blank"><span>Saratoga Star Aquatics</span></a><br>Lifeguard and Swim Instructor<br>February 2014 - September 2014
+                </p>
+            </div>
+        </div>
+        <a href=#projects><i class="fa fa-angle-down fa-5x down-arrow"></i></a>
+    </section>
 
+    <div class="parallax-window" data-parallax="scroll" data-image-src="img/swim.png"></div>
+
+
+    <!-- Projects -->
+    <section id="projects" class="fullPage">
+        <h1>Featured Project</h1>
+        <h1> Work in Progress. Coming Soon. </h1>
+        <a href=#contact><i class="fa fa-angle-down fa-5x down-arrow"></i></a>
+    </section>
+
+    <div class="parallax-window" data-parallax="scroll" data-image-src="img/oceansky.png"></div>
+
+
+    <!-- Contact -->
+    <section id="contact" class="fullPage">
+        <h1>Contact</h1>
+
+        <p>Still curious? Check out my full <a href="resume.pdf" target="_blank">resume</a> or send me an email!</p>
+
+        <div id="social">
+        <a href="https://www.facebook.com/henriyouu" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
+        <a href="mailto:henryyu.yu@gmail.com"><i class="fa fa-envelope-o fa-3x"></i></a>
+        <a href="https://www.linkedin.com/in/henryhyu" target="_blank"><i class="fa fa-linkedin-square fa-3x"></i></a>
+        </div>
+
+        <!--
+        <form method="post" id="contact" class="peThemeContactForm" action="mail.php">
+            <div id="personal" class="bay form-horizontal">
+                <div class="control-group">
+                    <div class="controls">
+                        <input class="required span9" type="text" name="author" data-fieldid="0" value="Name" onclick="if(this.value=='Name') this.value=''" onblur="if(this.value=='') this.value='Name'">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="controls">
+                        <input class="required span9" type="email" name="email" data-fieldid="1" value="Email" onclick="if(this.value=='Email') this.value=''" onblur="if(this.value=='') this.value='Email'">
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="controls">
+                        <textarea name="message" rows="12" class="required span9" data-fieldid="2"  onclick="if(this.value=='Message') this.value=''">Message</textarea>
+                    </div>
+                </div>
+                <div class="control-group">
+                    <div class="controls send-btn">
+                        <button type="submit" id="send-button">Send Message</button>
+                    </div>
+                </div>
+            </div>
+            <div class="notifications">
+                <div id="contactFormSent" class="formSent alert alert-success">
+                    <strong>Your Message Has Been Sent!</strong> I'll get back to you as soon as possible.</div>
+                <div id="contactFormError" class="formError alert alert-error">
+                    <strong>Oops, An error has ocurred!</strong> See the marked fields above to fix the errors.</div>
+            </div>
+        </form>
+        -->
+
+        <div id="snapwidget">
+            <p>Check out my Instagram pictures at <a href="https://instagram.com/henriyouu/">@henriyouu_</a>!</p>
+            <script src="http://snapwidget.com/js/snapwidget.js"></script>
+            <iframe src="http://snapwidget.com/in/?u=aGVucml5b3V1fGlufDEyNXw1fDF8fHllc3w1fG5vbmV8b25TdGFydHx5ZXN8eWVz&ve=310116" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%;"></iframe>
+        </div>
+
+        <p>&copy; Henry Yu</p>
+    </section>
+
+    <!-- JS -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/jquery.sticky.js"></script>
+    <script src="js/parallax.min.js"></script>
+    <script src="js/particle.js"></script>
+
+    <script>
+        $(document).ready(function(){
+            $("#sticker").sticky({topSpacing:0});
+        });
+
+        $(window).load(function() {
+            $('.count').each(function () {
+                $(this).prop('Counter',0).animate({
+                    Counter: $(this).text()
+                }, {
+                    duration: 4500,
+                    easing: 'swing',
+                    step: function (now) {
+                        $(this).text(Math.ceil(now));
+                    }
+                });
+            });
+
+            progress(80, $('#progress1'));
+            progress(100, $('#progress-eating'));
+        });
+
+        function progress(percent, $element) {
+            var progressBarWidth = percent * $element.width() / 100;
+            $element.find('div').animate({ width: progressBarWidth }, 500).html(percent + "% ");
+        }
+
+        $(document).ready(function() {
+            $('#particles').particleground({
+              minSpeedX: 0.1,
+              maxSpeedX: 0.7,
+              minSpeedY: 0.1,
+              maxSpeedY: 0.7,
+              directionX: 'center', // 'center', 'left' or 'right'. 'center' = dots bounce off edges
+              directionY: 'center', // 'center', 'up' or 'down'. 'center' = dots bounce off edges
+              density: 10000, // How many particles will be generated: one particle every n pixels
+              dotColor: '#E9F6F5',
+              lineColor: '#E9F6F5',
+              particleRadius: 7, // Dot size
+              lineWidth: 1,
+              curvedLines: false,
+              proximity: 100, // How close two dots need to be before they join
+              parallax: true,
+              parallaxMultiplier: 6, // The lower the number, the more extreme the parallax effect
+              onInit: function() {},
+              onDestroy: function() {}
+            });
+        });
+    </script>
+
+    <!-- Custom Scroll-->
+    <script type="text/javascript">
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+
+
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-57091544-1', 'auto');
+      ga('send', 'pageview');
+    </script>
 </body>
 </html>
