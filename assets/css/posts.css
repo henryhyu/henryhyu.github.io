@@ -1,8 +1,6 @@
 
 body {
-  font-family: 'serif', serif;
-  text-transform: lowercase;
-  color: 000000;
+	font-family: 'serif', serif;
 
   display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
   display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
@@ -26,29 +24,30 @@ body {
   -moz-box-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
-  align-items: center;
+	/*align-items: center;*/
 }
 
 .header {
-  margin-bottom: 0px;
+	margin-bottom: 0px;
 }
 
 /* title */
 .navbar-brand {
-  font-weight: 800;
-  font-size: 3rem;
-  letter-spacing: 2px;
+	font-weight: 800;
+	font-size: 3rem;
+	letter-spacing: 2px;
 }
 
 /* navi links */
 .nav-item {
-  font-size: 1rem;
-  font-weight: 300;
-  letter-spacing: 0.5px;
+	font-size: 1rem;
+	font-weight: 300;
+	letter-spacing: 0.5px;
+  text-transform: lowercase;
 }
 
 .row {
-  display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
   display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
   display: -ms-flexbox;      /* TWEENER - IE 10 */
   display: -webkit-flex;     /* NEW - Chrome */
@@ -62,20 +61,34 @@ body {
 }
 
 .profile-img {
-  width: 100px;
-  height: auto;
-  opacity: 0.85;
+	width: 350px;
+	height: auto;
+	opacity: 0.85;
 }
 
 .text {
-  width:800px;
+	width:800px;
   font-size: 95%;
-  color: 000000;
+	color:black;
+}
+
+.post {
+	font-size: 100%;
+	color: black;
 }
 
 li {
     list-style-type: none;
 }
+
+	/*
+.portfolio-img {
+	max-height: 250px;
+	display: block;
+	width: 100%;
+	object-fit: cover;
+}
+*/
 
 /* Footer */
 .footer {
@@ -195,3 +208,4 @@ a:visited {
     display: none;
   }
 }
+

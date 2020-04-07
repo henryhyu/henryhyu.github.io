@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<head>
+
+</head>
+<body>
+<div>
+  <div id="row">
+    <div class = "text">
+      <ul>
+         <font color = "black">
+    {% for post in site.categories.reviews %}
+<h5> <u><a href = "{{post.url}}" style="color:#000000;"><li><b>{{post.date | date: "%-Y %m %d"}}</b></u> <i>{{post.title | capitalize}}</i></li></a>
+    {% endfor %}</h5>
+        </font>
+      </ul>
+    </div>
+  </div>
+</body>
