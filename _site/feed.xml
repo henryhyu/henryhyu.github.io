@@ -1,1 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-07T09:41:20-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">henry y.</title><subtitle></subtitle><entry><title type="html">why here</title><link href="http://localhost:4000/blog/self/2020/04/06/introduction.html" rel="alternate" type="text/html" title="why here" /><published>2020-04-06T00:00:00-07:00</published><updated>2020-04-06T00:00:00-07:00</updated><id>http://localhost:4000/blog/self/2020/04/06/introduction</id><content type="html" xml:base="http://localhost:4000/blog/self/2020/04/06/introduction.html">&lt;p&gt;filler for now.&lt;/p&gt;</content><author><name></name></author><summary type="html">filler for now.</summary></entry><entry><title type="html">resident evil 3 remake</title><link href="http://localhost:4000/reviews/self/2020/04/06/re3.html" rel="alternate" type="text/html" title="resident evil 3 remake" /><published>2020-04-06T00:00:00-07:00</published><updated>2020-04-06T00:00:00-07:00</updated><id>http://localhost:4000/reviews/self/2020/04/06/re3</id><content type="html" xml:base="http://localhost:4000/reviews/self/2020/04/06/re3.html">&lt;p&gt;filler for now.&lt;/p&gt;</content><author><name></name></author><summary type="html">filler for now.</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-07T12:39:46-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">henry y.</title><subtitle></subtitle><entry><title type="html">personal take on reviews</title><link href="http://localhost:4000/reviews/self/2020/04/07/personaltake.html" rel="alternate" type="text/html" title="personal take on reviews" /><published>2020-04-07T00:00:00-07:00</published><updated>2020-04-07T00:00:00-07:00</updated><id>http://localhost:4000/reviews/self/2020/04/07/personaltake</id><content type="html" xml:base="http://localhost:4000/reviews/self/2020/04/07/personaltake.html">&lt;p&gt;if you know me, you probably know that i play a lot of video games (and board games). i have come to an unfortunate realization that many reviews from critics or social media gurus are rarely a good representation of a game’s true potential and caliber. these reviews include but are not limited to that of well known companies such as ign, game informer, polygon, gamespot, kotaku and metacritic. these days, an increasing amount of clickbaity titles and pandering editorials fill the pages of these websites. these so-called reviews have become nothing more than paid for fluff from game publishers rather than an honest, down to earth opinion of a game’s quality. in addition, these “reviewers” seldom play a game from start to finish, discover all its nooks and crannies before writing a review. how can you produce a valid opinion if you haven’t even finished the game? often a times, i watch or read a review of a game that has been very negatively reviewed until i play it myself to find it to be quite the opposite. countless video games are unfairly and unjustly criticized, which is what gave me the motivation to start writing my own reviews. however, of course, the nature of a review is subjective. i will try my best to give a holistic, honest review of any game that i play. every game deserves to be given a fair chance to be played, good or bad!&lt;/p&gt;
+
+&lt;p&gt;so what goes inside a review? what are the components of a game that need to be analyzed? for me, i would break it down to the following categories:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;visual
+    &lt;ul&gt;
+      &lt;li&gt;does the game look visually appealing? how are the graphics compared to other titles produced in the same year? is the game artistic?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;audio
+    &lt;ul&gt;
+      &lt;li&gt;how is the soundtrack? is the audio/music fitting with the theme? do you listen to the ost even when not playing?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;gameplay
+    &lt;ul&gt;
+      &lt;li&gt;is gameplay smooth and intuitive? is it innovative or basic? (ie. button mashing)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;narrative
+    &lt;ul&gt;
+      &lt;li&gt;how is the story, character development, and plot? does the game tell the story well, or does it incorporate cheap, cliche tropes/situations&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;challenge
+    &lt;ul&gt;
+      &lt;li&gt;is the game challenging/difficult (in a good way?), do you feel accomplished after beating the game? are there difficult decisions to make in the game that ultimately alter your experience? how is the level design?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;replayability
+    &lt;ul&gt;
+      &lt;li&gt;how replayable is the game? is there ng+, secret endings, secret difficulties, end game content, multiplayer, side quests?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;value
+    &lt;ul&gt;
+      &lt;li&gt;does this game hold its value well? is it worth the amount that you paid for it? how many hours of gameplay?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;personal grade
+    &lt;ul&gt;
+      &lt;li&gt;did you personally enjoy the game?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;i would give each category a rating from 0-10 then aggregate all of them and give a final score.&lt;/p&gt;</content><author><name></name></author><summary type="html">if you know me, you probably know that i play a lot of video games (and board games). i have come to an unfortunate realization that many reviews from critics or social media gurus are rarely a good representation of a game’s true potential and caliber. these reviews include but are not limited to that of well known companies such as ign, game informer, polygon, gamespot, kotaku and metacritic. these days, an increasing amount of clickbaity titles and pandering editorials fill the pages of these websites. these so-called reviews have become nothing more than paid for fluff from game publishers rather than an honest, down to earth opinion of a game’s quality. in addition, these “reviewers” seldom play a game from start to finish, discover all its nooks and crannies before writing a review. how can you produce a valid opinion if you haven’t even finished the game? often a times, i watch or read a review of a game that has been very negatively reviewed until i play it myself to find it to be quite the opposite. countless video games are unfairly and unjustly criticized, which is what gave me the motivation to start writing my own reviews. however, of course, the nature of a review is subjective. i will try my best to give a holistic, honest review of any game that i play. every game deserves to be given a fair chance to be played, good or bad!</summary></entry><entry><title type="html">why here</title><link href="http://localhost:4000/blog/self/2020/04/06/introduction.html" rel="alternate" type="text/html" title="why here" /><published>2020-04-06T00:00:00-07:00</published><updated>2020-04-06T00:00:00-07:00</updated><id>http://localhost:4000/blog/self/2020/04/06/introduction</id><content type="html" xml:base="http://localhost:4000/blog/self/2020/04/06/introduction.html">&lt;p&gt;filler for now.&lt;/p&gt;</content><author><name></name></author><summary type="html">filler for now.</summary></entry></feed>
