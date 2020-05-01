@@ -25,5 +25,10 @@ so what goes inside a review? what are the components of a game that need to be 
 	- does this game hold its value well? is it worth the amount that you paid for it? how many hours of gameplay?
 - personal grade
 	- did you personally enjoy the game? 
+	- for possible preexisting bias, the types of games i personally enjoy playing are action rpg's that are "exceptionally challenging" (ie. soulsborne games :p)
 
 i would give each category a rating from 0-10 then aggregate all of them and give a final score.
+
+- bonus thing to think about
+	- are games that are entirely or mostly played online considered "good" or "bad" because it is well developed or because your friends/peers all play it? these types of games are definitely more influenced by current societal/cultural trends.
+	- should all categories be weighted the same? for example, a game can have stunning visuals and narrative but very poor gameplay and replayability, would it still be an overall positively rated game?
