@@ -1,3 +1,9 @@
+@import
+        "base",
+        "layout",
+        "syntax-highlighting",
+        "custom-styles" // add this line
+;
 
 body {
   font-family: 'serif', serif;
