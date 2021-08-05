@@ -1,6 +1,6 @@
 ---
 layout: date
-title: "mortal shell (full review)"
+title: "mortal shell (in progress)"
 date:   2021-08-18
 categories: self
 ---
@@ -46,4 +46,4 @@ cons:
 
 **hours spent on the game: hours**
 
-**platinumed? no**
+**platinumed? n/a**
