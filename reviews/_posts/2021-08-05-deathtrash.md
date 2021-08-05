@@ -38,6 +38,7 @@ pros:
 - amazing art direction/style
 - deep mythos inspired by Lovecraft
 - rich rpg elements
+- meat, puke, brains!
 
 cons:
 - clunky dodge roll system
