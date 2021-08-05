@@ -1,7 +1,7 @@
 ---
 layout: date
 title: "mortal shell (full review)"
-date:   2021-08-03
+date:   2021-08-18
 categories: self
 ---
 
