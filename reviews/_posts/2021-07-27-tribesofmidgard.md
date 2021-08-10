@@ -35,10 +35,13 @@ reviewed on: pc
 - personal grade: 7/10
 
 pros:
-- n/a
+- very fun in cooperative play, up to 10 players
+- great variety of different gameplay elements
 
 cons:
-- n/a
+- combat is clunky
+- progression too grindy
+- needs more content
 
 **total score: 7.3/10**
 

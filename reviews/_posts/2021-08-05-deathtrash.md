@@ -1,6 +1,6 @@
 ---
 layout: date
-title: "death trash (full preview)"
+title: "death trash (early access review)"
 date:   2021-08-05
 categories: self
 ---
@@ -17,7 +17,7 @@ multiplayer/co-op: yes
 
 release date: august 5, 2021
 
-price: free (ty n.p.)
+price: a review copy of the title was provided by the publisher for review purposes
 
 msrp: $19.99
 

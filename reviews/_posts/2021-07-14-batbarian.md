@@ -17,7 +17,7 @@ multiplayer/co-op: no
 
 release date: july 14, 2021
 
-price: free (ty n.p.)
+price: a review copy of the title was provided by the publisher for review purposes
 
 msrp: $19.99
 

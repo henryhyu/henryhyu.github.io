@@ -27,23 +27,28 @@ reviewed on: pc
 
 - visual: 10/10
 - audio: 10/10
-- gameplay: 8/10
-- narrative: 8/10
-- challenge: 7/10
-- replayability: 7/10
+- gameplay: 9/10
+- narrative: 9/10
+- challenge: 8/10
+- replayability: 8/10
 - value: 9/10
 - personal grade: 9/10
 
 pros:
-- n/a
+- magical art style and sound design
+- memorable, well designed boss fights
+- extremely smooth combat
+- engaging story with lots of lore
+- rewarding exploration
 
 cons:
-- n/a
+- lack of map
+- tedious navigation
 
-**total score: 8.5/10**
+**total score: 9/10**
 
 **buy at full price, sale, never: full**
 
-**hours spent on the game: 10 hours**
+**hours spent on the game: 20 hours**
 
-**platinumed? no**
+**platinumed? yes**
