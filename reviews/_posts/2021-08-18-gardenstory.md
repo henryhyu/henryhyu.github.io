@@ -1,0 +1,74 @@
+---
+layout: date
+title: "garden story (full review)"
+date:   2021-08-18
+categories: self
+---
+
+![mos](/assets/img/gardenstory.jpg)
+
+garden story
+
+developer: picogram
+
+genre: action rpg / life simulator
+
+multiplayer/co-op: no
+
+release date: august 11, 2021
+
+price: a review copy of the title was provided by the publisher for review purposes
+
+msrp: $19.99
+
+platforms: pc/switch
+
+reviewed on: pc
+
+- visual: 9/10
+- audio: 11/10
+- gameplay: 8/10
+- narrative: 8/10
+- challenge: 7/10
+- replayability: 9/10
+- value: 9/10
+- personal grade: 9/10
+
+pros:
+- phenomenal soundtrack, go grahm nesbitt!
+- strong, inspiring narrative
+- great variety of gameplay mechanics that get sprinkled in at a good pace
+- outstanding pixel art thats cute and inviting
+
+cons:
+- clunky combat, iffy hitboxes
+- punishing in the beginning (not a con, but may be turn off for some players)
+- more focus on combat than farming (not a con, but may be turn off for some players)
+
+**total score: 9/10**
+
+**buy at full price, sale, never: full**
+
+**hours spent on the game: 10 hours**
+
+**platinumed? no**
+
+Garden Story Review: Grapeness Awaits
+
+Do you ever get tired of the burdens of mundane life? Are you ready to embark on a journey graper than yourself? Your home has been desecrated by the mysterious Rot, and Guardian Plum has left your town, appointing you the new Guardian of Spring Hamlet. You are Concord, Guardian Grape, and the destiny of The Grove now lies in your tiny little stems! Garden Story, the newest game by solo developer Picogram, contains strong scents of Harvest Moon and My Time at Portia due to its beautifully hand-drawn pixel art and delicate musical score. However, upon closer inspection, Garden Story is more of a hybrid between a Zelda lite and Stardew Valley, with gameplay elements from an action RPG and a life simulator. The game deliciously weaves together themes of community, self-discovery, and personal identity.
+
+If it wasn’t clear already, you play as an adorable, stumpy, round, purple grape, who has spent its entire life in the Kindergarden, maintaining a single vine with the life essence of The Grove known as Dew. All the inhabitants of Garden Story live in The Grove, home to a massive tree full of mana and partitioned into four towns based on the seasons: Spring Hamlet, Summer Bar, Autumn Town, and Winter Glade. One day, Guardian Plum lets you out of the Kindergarden and informs you of his upcoming departure. He appoints you to be his successor, teaching you the basics of combat and how to help out neighboring towns. But you soon discover, unfortunately, that the very lifeline of The Grove is threatened by a dark force known as The Rot, and it is up to you to help rebuild each of the aforementioned towns and re-establish their communication with each other. 
+
+So many games have you traveling from place to place without giving you opportunities to feel a sense of ownership. In Garden Story, however, you have a place to call home in each village that you visit! The main gameplay loop revolves around talking to main characters to progress the narrative and interacting with a bulletin board next to your house that assigns you daily quests to level up and rebuild the village. Some main quests require your village to be at a certain level before becoming available, so it is in your best interest to complete some every day! Of course, the higher your village’s level, the better items the shops will sell as well.
+
+Daily quests are divided up into three categories: combat in which you defeat some Rot; building. where you rebuild a bridge or fix a fence; and gathering where you collect resources to donate to the village. Though straightforward, the daily tasks vary from day to day so they aren’t mundane and tedious. In addition to the aforementioned main quests and daily tasks, there are also side quests from various characters found in the world and challenging dungeons to explore. Picogram did a fantastic job instilling a sense of hope, belonging, and community by deepening your connection with the inhabitants of The Grove. 
+
+At first glance, Garden Story seems to focus heavily on resource gathering, town-building, and farming. However, there is a prominent focus on combat in the game that is reminiscent of vanilla Dark Souls. Unfortunately, the combat is a bit clunky as it feels slow and unresponsive. Hitboxes are also wonky and minuscule. Some enemies are weirdly unbalanced, especially the mini ooze Rots that deal on-contact damage and are extremely difficult to hit. As you fight the Rot throughout your journey, you have a stamina bar that depletes every time you swing your weapon or dodge roll. You are given a shield to use too, but I found myself rarely using it, if ever. Combat is surprisingly challenging initially and gets progressively lenient because you start with only 3 hit points and 2 stamina bars. Every time you defeat a boss, you are rewarded with a permanent increase to your hit points and stamina bar. Furthermore, as you explore, achieve weapon mastery, and help out townsfolk, you collect memories that can be equipped to further customize your playstyle, with memories that may further increase your health and stamina or give you better luck or healing potency. Alongside the combat, there are also mango-nificent puzzles to complete that keep you engaged. The puzzles start simple but get gradually more arduous. Still, they are never un-raisin-able!
+
+As you progress further into the game, every new village you visit will introduce you to a new gameplay mechanic that keeps tasks fresh and exciting. For example, by the time you get to the second town, you receive the dowsing rod that you can use to fish items out of the ocean and rip otherwise unbreakable shells off of Rot enemies. Then, when you reach the Winter Glade, you receive a pair of snazzy ice skates! Building structures and gardening resources also get introduced later on to scratch that Stardew Valley itch. Though more low-key and not as emphasized as combat, the ability to actually create structures and cultivate plants further drives the theme of belonging and community. The more you customize your town, the more lively and personal it begins to feel. Garden Story is really about building your home. A fiery maraschino cherry even offered to stand guard in front of my house at night to fight off any Rot that might wander in!
+
+To be honest, Garden Story and I got off on the wrong foot in the beginning. The tutorial wasn’t that helpful, the gameplay menus were overwhelming, combat didn’t feel smooth, and the PC key bindings were awkwardly placed. However, once I took the time to appreciate the luscious world and the fruits of my labor, the title began to feel zen. By the end of it, I couldn’t help but feel proud of Concord’s advancement from an isolated grape gardener to a world-saving guardian.
+
+On top of all those aforementioned points, there’s nothing better to do than relaxing in The Grove’s inviting atmosphere, conversing with my frog friend Rana, cultivating gardens, and listening to the cherry-sweet music of the Summer Bar. I cannot express enough love for the original soundtrack composed by Grahm Nesbitt. It truly immersed me into the plum-forgettable world to the point where I played the OST in the background as I wrote this review.
+
+Garden Story isn’t necessarily about what you do, since you mostly take on simple and tedious tasks. Instead, the game is about the people you meet along the way, the lives you touch, the connections you make, and ultimately not forgetting about your roots, no plum intended. It has honestly been a while since I’ve been emotionally moved by a game this sweet, especially one paired with a beautiful soundtrack. If you are looking for a cozy world-building game with some combat and a whole lot of charm and whimsy, then The Grove welcomes you like a home away from home. Concord, you’re truly one-in-a-melon, and you did a grape job raisin me!

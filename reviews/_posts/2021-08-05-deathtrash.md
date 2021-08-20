@@ -53,7 +53,7 @@ cons:
 
 **platinumed? no**
 
-Death Trash Preview: A Grotesque Wasteland of Cosmic Flesh
+Death Trash Early Access Review: A Grotesque Wasteland of Cosmic Flesh
 
 When it comes to modern day gaming aesthetics, a large focus has been on utilizing photorealism to make worlds look as clean-cut and pristine as possible. However, developers Crafting Legends decided to go the opposite route. Their upcoming game, Death Trash, is set in a mucky, filthy, gory, and trash-ridden world filled with mystery and Lovecraftian secrets, and I’m loving it!
 
